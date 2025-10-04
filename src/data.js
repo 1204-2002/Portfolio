@@ -1,7 +1,7 @@
 export const projects = [
   {
     id: 1,
-    title: "Minimal E-com",
+    title: "Minimal E-commerce",
     description: "I am writing to formally request an excused absence from work on [date]. The reason for this request is [state the reason, e.g., a scheduled medical procedure, an important legal appointment that cannot be rescheduled].",
     image: "minimal_e-commerce.webp",
     link: "https://minimalist-ecom.netlify.app/",
