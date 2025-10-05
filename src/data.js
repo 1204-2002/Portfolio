@@ -25,7 +25,7 @@ export const projects = [
     title: "Quiz App",
     description: "A quiz game app is a mobile application where users answer multiple-choice or open-ended questions on various topics.",
     image: "quiz.webp",
-    link: "https://yourquizapp.com",
+    link: "",
   },
   {
     id: 5,
